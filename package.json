@@ -1,6 +1,6 @@
 {
     "name": "redux-persist-ionic-storage",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Redux Persist Ionic Storage",
     "main": "index.js",
     "scripts": {
