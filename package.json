@@ -1,6 +1,6 @@
 {
     "name": "redux-persist-ionic-storage",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Redux Persist Ionic Storage",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Hernando17/redux-persist-ionic-storage.git"
+        "url": "https://github.com/Hernando17/redux-persist-ionic-storage"
     },
     "keywords": [
         "redux",
