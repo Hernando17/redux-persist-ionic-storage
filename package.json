@@ -1,6 +1,6 @@
 {
     "name": "redux-persist-ionic-storage",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Redux Persist Ionic Storage",
     "main": "index.js",
     "scripts": {
@@ -17,7 +17,7 @@
         "ionic-storage"
     ],
     "author": "Hernando",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/Hernando17/redux-persist-ionic-storage/issues"
     },
