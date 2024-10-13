@@ -1,28 +1,28 @@
 {
-  "name": "redux-persist-ionic-storage",
-  "version": "1.0.0",
-  "description": "Redux Persist Ionic Storage",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hernando17/redux-persist-ionic-storage.git"
-  },
-  "keywords": [
-    "redux",
-    "redux-persist",
-    "ionic",
-    "ionic-storage"
-  ],
-  "author": "Hernando",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Hernando17/redux-persist-ionic-storage/issues"
-  },
-  "homepage": "https://github.com/Hernando17/redux-persist-ionic-storage#readme",
-  "dependencies": {
-    "@ionic/storage": "^4.0.0"
-  }
+    "name": "redux-persist-ionic-storage",
+    "version": "1.0.1",
+    "description": "Redux Persist Ionic Storage",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Hernando17/redux-persist-ionic-storage.git"
+    },
+    "keywords": [
+        "redux",
+        "redux-persist",
+        "ionic",
+        "ionic-storage"
+    ],
+    "author": "Hernando",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Hernando17/redux-persist-ionic-storage/issues"
+    },
+    "homepage": "https://github.com/Hernando17/redux-persist-ionic-storage#readme",
+    "dependencies": {
+        "@ionic/storage": "^4.0.0"
+    }
 }
